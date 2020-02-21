@@ -83,7 +83,6 @@ BiometricAuthenticationHandler biometricAuthenticationHandler = new BiometricAut
         biometricAuthenticationHandler.startAuthentication("Title", "SubTitle", "Description", "BTNTEXT", resID); //resID - popup dialog image icon resource
 ```
 
-```
 ##### Authentication Failing Reasons
 ```Java
 BiometricAuthenticationHandler.ERROR_NO_HARDWARE
