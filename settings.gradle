@@ -1,0 +1,2 @@
+include ':app', ':biometricauthenticationhandler'
+rootProject.name='Biometric Demo'
